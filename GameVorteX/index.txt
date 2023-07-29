@@ -1,0 +1,142 @@
+GameVorteX - Epic Games Made For True Gamers!
+This is an esports and gaming html template made by kingkishore49
+
+
+
+#---------- HEADER ----------#
+
+alt = GameVorteX
+
+Home
+Tournament
+News
+Contact
+
+join our team
+
+aria-label = toggle menu
+
+
+
+#---------- HERO ----------#
+
+Enjoy The Games
+Epic Games Made For True Gamers!
+
+Join With Us
+
+alt = hero banner
+alt = shape
+
+
+
+#---------- UPCOMING ----------#
+
+
+UPCOMING MATCHES
+
+BOOYAH
+MASTERS TOURNAMENT
+Unleash Your Inner Warrior: Conquer the FreeFire Gaming Tournament!
+
+1.
+alt = Raistar Killer Squads
+Raistar Killer Squad
+Group 01 | Match 01 st
+
+10:00
+25TH July 2024
+
+<ion-icon name="logo-youtube"></ion-icon>
+<ion-icon name="logo-twitch"></ion-icon>
+
+alt = Corinthians Squad
+Corinthians Squad
+
+2.
+alt = Total Gaming
+Total Gaming
+
+12:30
+25 July 2024
+
+alt = Gaming Gladiators
+Gaming Gladiators
+Group 02 | Match 02nd
+
+3.
+alt = Devil Targets
+Devil Targets
+Group 02 | July 24th
+
+04:20
+25th July 2024
+
+alt = Nigma Galaxy
+Nigma Galaxy
+Group 02 | Match 25rd
+
+
+
+#---------- NEWS ----------#
+
+What's On Our Mind
+
+News And Headlines
+
+Host country, slots distribution, schedule, format, scoring system, and more...
+
+alt = Free Fire World Series (FFWS) 2023
+                    Host country, slots distribution, schedule, format, scoring system, and more...
+
+
+<ion-icon name="calendar-outline" aria-hidden="true"></ion-icon>
+July 20 2023
+
+<ion-icon name="person-outline" aria-hidden="true"></ion-icon>
+Lalisa Manobal
+
+
+
+#---------- FOOTER ----------#
+
+alt =  logo
+
+Game Changers Behind the Scenes: Our Exceptional Team Powers Thrilling Game News to Your Fingertips.
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+Usefull Links
+
+Tournaments
+Help Center
+Privacy and Policy
+Terms of Use
+Contact Us
+
+Contact Us
+
+Location:
+1 Gwanak-ro, Gwanak-gu, Seoul, South Korea
+
+Join Us:
+kingkishore4907@gmail.com
+
+Phone:
++91 843572367
+
+Newsletter Signup
+
+Your Email
+Subscribe Now
+&copy; 2023 KingKishore49 All Rights Reserved.
+
+
+
+#---------- BACK TO TOP ----------#
+
+aria-label = back to top
+<ion-icon name="arrow-up-outline" aria-hidden="true"></ion-icon>
